@@ -1,1 +1,5 @@
-010101.codes
+$ dig WWW.010101.codes +nostats +nocomments +nocmd
+    > ;WWW.010101.codes                     IN      A
+    > WWW.010101.codes              3592    IN      CNAME   YOUR-USERNAME.github.io.
+    > 010101codes.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
