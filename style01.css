@@ -13,4 +13,5 @@ div {
  	position: fixed;
  	background:  #ffffff;
  	font-size: 5px;
+ 	border-radius: 20px;
  }
