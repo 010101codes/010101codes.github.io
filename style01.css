@@ -1,5 +1,6 @@
 body {
-	background-image: binary.gif ;
+	background-image: url("binary.gif") ;
+	background-size: cover;
 	position: fixed;
 	right: 0;
 	bottom:  0;
