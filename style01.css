@@ -13,6 +13,8 @@ div {
           font-size: 15px;
           background:  #ffffff;
           border-radius: 20px;
+          	display:  grid;
+ 			place-items: center;
  }
  .grid {
  	display:  grid;
