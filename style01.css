@@ -14,7 +14,7 @@ div {
           background:  #ffffff;
           border-radius: 20px;
  }
-
-#grid {
-          display:  grid;
-          place-items: center;
+.grid {
+	display:  grid;
+	place-items: center;
+}
