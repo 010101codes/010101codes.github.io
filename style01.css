@@ -8,7 +8,7 @@ video {
   z-index: -1;
  }
 
- .content {
+div {
  	position: fixed;
  	background:  #ffffff;
  	hover: 2px;
