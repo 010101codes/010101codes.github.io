@@ -9,13 +9,11 @@ video {
  }
 
 div {
-	font-family: 'Press Start 2P', cursive;
- 	position: fixed;
- 	background:  #ffffff;
- 	font-size: 5px;
- 	border-radius: 20px;
-    margin: 25px 50px 75px;
-	padding: 80px 80px;
-	height: 200px;
-	width: 50%;
+		  font-family: 'Press Start 2P', cursive;
+          font-size: 15px;
+          background:  #ffffff;
+          border-radius: 20px;
+          margin: 25px 50px 75px;
+          padding: 80px 80px;
+          width: 50%;
  }
