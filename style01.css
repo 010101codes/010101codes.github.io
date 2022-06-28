@@ -1,7 +1,5 @@
-
 body {
-	background-image: url("binary.gif") ;
-	background-size: cover;
+	background-color: url("binary.mov");
 	position: fixed;
 	right: 0;
 	bottom:  0;
