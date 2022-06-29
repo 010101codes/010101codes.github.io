@@ -9,22 +9,23 @@ video {
  }
 
 div {
-		  font-family: 'Press Start 2P', cursive;
+		      font-family: 'Press Start 2P', cursive;
           font-size: 15px;
           background:  #ffffff;
           border-radius: 20px;
           object-position: top left;
+          padding: 50px;
+          margin: 100px 100px;
 	 
 }
 .grid {
-	 
-      position:  absolute;
+      padding: 30px;
+      margin: 50px 60px 50px 0px;
+      border-radius: 25px;
       top:  50%;
       left:  50%;
-      transform: translate(-50% , -50%);
-	  border-radius: 25px;
-	  padding: 30px;
-      margin: 50px 60px 50px 0px;
+      transform: translate(-50% , -50%);  
+      position:  absolute;
   
 }
 img
