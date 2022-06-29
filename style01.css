@@ -13,8 +13,9 @@ div {
           font-size: 15px;
           background:  #ffffff;
           border-radius: 20px;
-          padding: auto;
-          margin: auto;
+          padding: 50px;
+          margin: 100px;
+          float:  left;
 	 
 }
 .grid {
@@ -25,11 +26,11 @@ div {
       left:  50%;
       transform: translate(-50% , -50%);  
       position:  absolute;
-      float: left;
+      float: right;
   }
 .milan {
     width: 100px;
-    float:  right;
+    float:  left;
        }
 
 
