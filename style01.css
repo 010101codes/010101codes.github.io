@@ -16,10 +16,12 @@ div {
           padding: 75px;
           margin:  50px 50px;
  }
- 
+
 .grid {
 	display:  grid;
 	place-items: center;
+	      padding: 75px;
+          margin:  50px 50px;
 }
 
 
