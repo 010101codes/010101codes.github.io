@@ -25,10 +25,11 @@ div {
       left:  50%;
       transform: translate(-50% , -50%);  
       position:  absolute;
-  
-}
-.milan
-{
-  float:  left;
-}
+  }
+  .milan {
+      float: right; 
+      width: 200; 
+      height: 200; 
+        }
+
 
