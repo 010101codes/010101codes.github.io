@@ -27,9 +27,9 @@ div {
       transform: translate(-50% , -50%);  
       position:  absolute;
   }
-  .milan {
-    width: 100;
+.milan {
+    width: 100px;
     float:  right;
-  }
+       }
 
 
