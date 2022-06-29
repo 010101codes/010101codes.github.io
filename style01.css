@@ -27,7 +27,7 @@ div {
       transform: translate(-50% , -50%);  
       position:  absolute;
   }
-  img {
+  .milan {
     width: 100;
     float:  right;
   }
