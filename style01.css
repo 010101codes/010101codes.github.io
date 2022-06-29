@@ -13,6 +13,7 @@ div {
           font-size: 15px;
           background:  #ffffff;
           border-radius: 20px;
+          object-position: top left;
 	 
 }
 .grid {
@@ -23,10 +24,10 @@ div {
 	  border-radius: 25px;
 	  padding: 50px;
       margin: 50px 60px 50px 0px;
-      display:  inline;
+  
 }
   #milan{
-      display:  block;
+      object-position: top right;
     }
 
 
